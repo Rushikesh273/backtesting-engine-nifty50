@@ -39,11 +39,11 @@ The project is a Limit Order Book (LOB) Matching Engine that replays historical 
 
 6. How to Run
 
--> Clone the repository:
+-> Clone the repository(copy and paste this in git bash):
       git clone https://github.com/Rushikesh273/Backtesting_Engine_For_nifty50.git
    
--> Install dependencies:
+-> Install dependencies(in IDE terminal):
      pip install yfinance pandas
      
--> Run the engine:
+-> Run the engine(in IDE terminal):
      python backtesting_engine.py
