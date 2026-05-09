@@ -21,6 +21,7 @@ The project is a Limit Order Book (LOB) Matching Engine that replays historical 
 -> Git & GitHub (Version Control)
 
 4. Learning Resources & Approach
+
 -> Theoretical Foundation: Concepts based on "Trading and Exchanges: Market Microstructure for Practitioners" by Larry Harris.
 
 -> Technical Guidance: Used AI tools (Gemini) to architect the exchange rules, handle MultiIndex data quirks, and refine the matching logic.
