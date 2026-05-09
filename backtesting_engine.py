@@ -123,7 +123,6 @@ if __name__ == "__main__":
             df = df.reset_index()
             print("Loaded " + str(len(df)) + " minutes of market activity.")
 
-            # 3. The Simulation Loop
             for index, row in df.iterrows():
                 # Even indices are BUY and Odd indices are SELL
                 side = "BUY" if index % 2 == 0 else "SELL"
