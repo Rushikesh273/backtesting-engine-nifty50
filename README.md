@@ -38,9 +38,12 @@ The project is a Limit Order Book (LOB) Matching Engine that replays historical 
 -> Execution: A trade is triggered only when the Buy price meets or exceeds the Sell price, prioritizing the order that arrived first.
 
 6. How to Run
+
 -> Clone the repository:
       git clone https://github.com/Rushikesh273/Backtesting_Engine_For_nifty50.git
+   
 -> Install dependencies:
      pip install yfinance pandas
+     
 -> Run the engine:
      python backtesting_engine.py
