@@ -1,8 +1,10 @@
 1. Nifty 50 Backtesting Engine (Python)
+
 This is my first Quantitative Finance project, created to bridge the gap between market theory and coding.
 The project is a Limit Order Book (LOB) Matching Engine that replays historical intraday data to simulate real-world trading. It focuses on market microstructure, order precedence rules, and financial data normalization.
 
 2. Features
+   
 -> Matching Algorithm: Implements Price-Time Priority (FIFO) to match buyers and sellers.
 
 -> NSE Compliance: Strict validation of the ₹0.05 tick size for the Indian market.
